@@ -1,5 +1,26 @@
+# Ignore VSCode settings folder
 .vscode/
 
+# Ignore build scripts
 build.sh
 
+# Ignore common game/build files (example for C/C++/Raylib projects)
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+*.log
 
+# Ignore build directories
+/build/
+/bin/
+/dist/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
