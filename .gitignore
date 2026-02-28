@@ -18,6 +18,7 @@ build.sh
 /build/
 /bin/
 /dist/
+game/
 
 # Ignore temporary files
 *.tmp
