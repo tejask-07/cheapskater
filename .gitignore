@@ -25,3 +25,6 @@ game/
 *.temp
 *.bak
 *.swp
+
+#Build output
+game
